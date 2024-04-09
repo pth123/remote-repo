@@ -1,0 +1,1 @@
+MAC环境下使用python+git+Jenkins做持久化集成测试
